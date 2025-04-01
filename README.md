@@ -60,7 +60,7 @@
 
 ### 🌟 Let's Connect
 
-If you're interested in building for the future of **Privacy-First AI**, reach out to me:
+If you're interested in connecting further, feel free to reach out to me:
 
 📫 **liviasaxel309@gmail.com**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/yikesaxe/)**
