@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Axel! 🇵🇪</h1>
 
 <p align="center">
-  🧑🏻‍💻 CS + EE @ Columbia University | Privacy & Security Builder | Rock Climber
+  🧑🏻‍💻 CS + EE @ Columbia University
 </p>
 
 <p align="center">
