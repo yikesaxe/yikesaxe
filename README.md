@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/yikesaxe">GitHub</a> • 
-  <a href="https://www.linkedin.com/in/axel-lopez7/">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/yikesaxe/">LinkedIn</a> • 
   <a href="https://axel.vercel.app">Portfolio</a>
 </p>
 
