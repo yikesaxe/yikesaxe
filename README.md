@@ -62,8 +62,8 @@
 
 If you're interested in building for the future of **Privacy-First AI**, reach out to me:
 
-📫 **yikesaxe@gmail.com**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/axel-lopez7/)**
+📫 **liviasaxel309@gmail.com**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/yikesaxe/)**
 
 ---
 
